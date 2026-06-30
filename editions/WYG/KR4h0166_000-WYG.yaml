@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0166/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0166_WYG_000-1a, image: WYG1476/WYG1476-0489a.png}
+body:
+  text: 南宋襍事詩總集類提要臣等謹案南宋襍事詩七巻國朝沈嘉轍吳焯陳芝光符曽趙昱勵鶚趙信同撰嘉轍字欒城焯字尺鳬曽字幼魯鶚字太鴻皆錢塘人芝光字蔚九昱字功千信字意林皆仁和人惟曽以薦舉官至户部郎中鶚以康熈庚子舉於鄉餘皆終於諸生是書以其鄉為南宋故都故摭捃軼聞每人各為詩百首而以所引典故註於每首之下意主紀事不在修詞故警句頗多而牽綴填砌之處亦復不少然援据浩博所引書幾及千種一字一句悉有根柢萃說部之菁華采詞家之腴潤一代故實巨細兼該頗為有資於考證蓋不徒以文章論矣乾隆四十一年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:6210b30610bde03b3aadb28693492624beb9b94852fd08998be97be45a0e0f38
+metadata:
+  title: 南宋襍事詩
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:43:57.348898'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0166/KR4h0166_000.txt
+hash: sha256:866a6002475694a1522c1b8e164bdc541f8d7126e99ed2cd94296f8c4b231f76
